@@ -1,1 +1,1 @@
-FROM registry.cn-hangzhou.aliyuncs.com/gcr2023/knative-serving-autoscaler:v1.3.2
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler:v1.3.2
